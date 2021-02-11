@@ -1,4 +1,4 @@
-# Substrate Test Runner
+# Tetcore Test Runner
 
 Allows you to test
 <br />
