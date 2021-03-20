@@ -31,7 +31,7 @@ The running node has no signature verification, which allows us author extrinsic
 
 ```rust
 /// tons of ignored imports
-use substrate_test_runner::{prelude::*, rpc, test, node::{TestRuntimeRequirements, StateProvider}};
+use tetcore_test_runner::{prelude::*, rpc, test, node::{TestRuntimeRequirements, StateProvider}};
 
 struct Node;
 
